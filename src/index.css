@@ -6,9 +6,9 @@
 }
 .hero-area > .hero-body{
   height: 100%;
-  background-image: linear-gradient(150deg, rgba(255, 255, 255, 0.750), rgb(255, 255, 255));
+  background-image: linear-gradient(150deg, rgba(255, 255, 255, 0.850), rgb(255, 255, 255));
 }
 /* Custom common class */
 .custom-fs-1{
-  font-size: 55px;
+  font-size: 60px;
 }
